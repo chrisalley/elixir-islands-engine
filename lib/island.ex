@@ -1,5 +1,4 @@
 defmodule IslandsEngine.Island do
-  alias IslandsEngine.Island
   alias IslandsEngine.Coordinate
 
   def start_link() do
